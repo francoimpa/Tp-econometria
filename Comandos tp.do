@@ -1,6 +1,8 @@
 *TP Econometría
 clear all 
 set more off 
+cd "C:\Users\franc\OneDrive\Documentos\Econometria"
+use "BASE DE DATOS.dta"
 
 *1) 
 *Formateamos variable tiempo 
